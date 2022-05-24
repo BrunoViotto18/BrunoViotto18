@@ -1,9 +1,3 @@
-<style>
-  .abc{
-    margin-top: 200px;
-  }
-</style>
-
 # 💻 Skill
 <br />
 
